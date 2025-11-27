@@ -23,7 +23,7 @@ jobs:
           password: ${{ secrets.FTP_PASSWORD }}
           protocol: ftp
           port: 21
-          local-dir: ./health
+          local-dir: ./health/
           
           # ---------------------------------------------------------
           # IMPORTANT CHANGE:
