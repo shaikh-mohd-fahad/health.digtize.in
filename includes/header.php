@@ -34,7 +34,7 @@
 </head>
 <body class="font-sans text-slate-600 antialiased bg-white">
 
-<nav class="fixed w-full z-50 bg-white/90 backdrop-blur-md border-b border-slate-100">
+<nav class="fixed w-full z-50 bg-white/80 backdrop-blur-lg border-b border-slate-200/50 transition-all duration-300">
     <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
         <div class="flex justify-between items-center h-20">
             <div class="flex-shrink-0 flex items-center gap-2">
